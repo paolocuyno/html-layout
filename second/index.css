@@ -1,31 +1,90 @@
 body{
 
-    margin: 0;
+    margin: 0510;
     width:100%;
     height:100vh ;
-    background-color:white
+    background-color:white;
 }
 
 .pagebox{
-    margin:0 ;
+    
+    border-style:solid;
+    margin: 10 ;
     width: 100%;
-    height: 50vh;
-    background-color:
+    height: 225px;
+    background-color:white;
+
+}
+
+.rectangle1{
+    margin-top: 50px;
+    margin-left: 5px;
+    display:inline-block;
+    height: 140px;
+    width:50px;
+    background-color:rebeccapurple; 
+}
+
+.rectangle2{
+    margin-top: 10px;
+    margin-left: 40px;
+    display:inline-block;
+    height:200px;
+    width: 400px;
+    background-color: green;
+}
+
+.circle{
+    margin-left: 40px;
+    display: inline-block;
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+    background-color: cadetblue;
 }
 .siteheader{
+    border-style: dotted;
     margin:0;
     width: 100%;
     height:50vh;
-    background-color:;
+    background-color:white;
 }
+
+.inner{
+   align:center;
+    border-style: outset;
+    margin: 100px;;
+    width: 85%;
+    height:400px;
+    background-color: lemonchiffon;
+}
+
+
+
+
 .maincontent{
-    margin:0;
-    width: 100%;
-    height: 10vh;
-    background-color: black;
-}
-.sitefooter{
+    padding-top: 5px;
+    margin-left: 40%;
+    margin-right: 40%;
+    border-style: outset;
     
+    width: 300px;
+    height: 250px;
+    background-color:white;
+    color:darkblue;
 }
+h1{
+
+    margin-top: 85px;
+    text-align: center;
+    letter-spacing: 5px;
+}
+
+
+
+
+
+
+
 
 
