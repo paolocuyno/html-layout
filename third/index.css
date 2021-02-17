@@ -7,7 +7,7 @@ body{
 .first-container{
     margin:0;
     width:100%;
-    height:6vh;
+    height:9vh;
     background-color:rgb(194, 191, 191);
 
 }
@@ -15,15 +15,15 @@ body{
 .left-square{
    margin-top: 10px;
     margin-left: 20px;
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
     background-color:rgb(52, 143, 204);
 }
 
 .second-container{
     margin:-5px;
     width:100%;
-    height: 26vh;
+    height: 24vh;
     background-color:white ;
 }
 
@@ -36,27 +36,27 @@ h1{
 .blue-rectangle{
     margin:0;
     width:100%;
-    height:14vh;
+    height:16vh;
     background-color:rgb(52, 143, 204); 
 }
 
 .seagreen-rectangle{
     margin:0;
     width: 100%;
-    height: 14vh;
+    height: 16vh;
     background-color: turquoise;
 }
 
 .lime-rectangle{
     margin:0;
     width: 100%;
-    height:14vh;
+    height:16vh;
     background-color: yellowgreen;
 }
 
 .limon-rectangle{
     margin: 0;
     width: 100%;
-    height: 14vh;
+    height: 16vh;
     background-color: rgb(194, 206, 29);
 }

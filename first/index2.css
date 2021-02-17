@@ -1,14 +1,20 @@
 body{
 
     margin: 0;
-    width:100%;
+    width:500px;
     height:100vh ;
     background-color:rgb(219, 210, 198)
 }
 
+section{
+    margin:0;
+    width: 500px;
+    height: 500px;
+    back
+}
 .header{
     margin:0 ;
-    width: 50%;
+    width: 900px;
     height: 100px;
     background-color: rgb(116, 112, 112);
 }
